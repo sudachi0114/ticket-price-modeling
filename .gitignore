@@ -1,0 +1,12 @@
+# emacs backup-file
+*~
+
+# sbt target
+target/
+project/target
+
+# intelliJ
+.idea/
+
+# macOS
+.DS_Store
